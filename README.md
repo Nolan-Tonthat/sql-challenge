@@ -53,6 +53,6 @@ After completing the database, I do the following:
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-##Student Comments
+## Student Comments
 
 I actually felt that I had a decent grasp on the material this week when coding SQL commands and trying to make tables.  SQL seems a lot easier than Pandas DataFrames and Jupyter Notebook.  I hope this feeling will continue in the future.
