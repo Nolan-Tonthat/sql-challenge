@@ -19,7 +19,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 
 ERD is shown below: 
-![ERD](sql-challenge/ERD.png)
+![ERD](ERD.png)
 
 #### 2. Data Engineering
 
