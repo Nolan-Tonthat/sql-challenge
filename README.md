@@ -14,14 +14,14 @@ For this project, you’ll design the tables to hold the data from the CSV files
 3. Data Analysis
 
 
-#### 1. Data Modeling
+### 1. Data Modeling
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 
 ERD is shown below: 
 ![ERD](ERD.png)
 
-#### 2. Data Engineering
+### 2. Data Engineering
 
 1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -33,7 +33,7 @@ ERD is shown below:
 
 2. Import each CSV file into its corresponding SQL table.
 
-#### 3. Data Analysis
+### 3. Data Analysis
 
 After completing the database, I do the following:
 
