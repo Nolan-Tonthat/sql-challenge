@@ -28,11 +28,11 @@ CREATE TABLE dept_managers(
 CREATE TABLE employees(
 	emp_no INT PRIMARY KEY NOT NULL,
 	emp_title VARCHAR NOT NULL,
-	birth_date VARCHAR NOT NULL,
+	birth_date DATE NOT NULL,
 	first_name VARCHAR(40) NOT NULL,
 	last_name VARCHAR(40) NOT NULL,
 	sex VARCHAR(1) NOT NULL,
-	hire_date VARCHAR NOT NULL
+	hire_date DATE NOT NULL
 );
 
 CREATE TABLE salaries(
