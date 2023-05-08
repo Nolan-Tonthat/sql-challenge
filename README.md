@@ -14,14 +14,14 @@ For this project, you’ll design the tables to hold the data from the CSV files
 3. Data Analysis
 
 
-### 1. Data Modeling
+## 1. Data Modeling
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 
 ERD is shown below: 
 ![ERD](ERD.png)
 
-### 2. Data Engineering
+## 2. Data Engineering
 
 1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
@@ -33,7 +33,7 @@ ERD is shown below:
 
 2. Import each CSV file into its corresponding SQL table.
 
-### 3. Data Analysis
+## 3. Data Analysis
 
 After completing the database, I do the following:
 
@@ -53,3 +53,6 @@ After completing the database, I do the following:
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
+##Student Comments
+
+I actually felt that I had a decent grasp on the material this week when coding SQL commands and trying to make tables.  SQL seems a lot easier than Pandas DataFrames and Jupyter Notebook.  I hope this feeling will continue in the future.
