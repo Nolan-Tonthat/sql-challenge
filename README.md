@@ -27,7 +27,7 @@ ERD is shown below:
 
   * Remember to specify the data types, primary keys, foreign keys, and other constraints.
 
-  * For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely    identify a row.
+  * For the primary keys, verify that the column is unique. Otherwise, create a composite key., which takes two primary keys to uniquely    identify a row.
 
   * Be sure to create the tables in the correct order to handle the foreign keys.
 
